@@ -23,7 +23,6 @@
 ## 注意
 - 仅供学习研究，请勿商用。  
 - 请保留原作者版权与项目链接。  
-- 模型文件需放在程序可读取的位置。
 
 ## 致谢
 原作者：[swigger/wechat-ocr](https://github.com/swigger/wechat-ocr)
