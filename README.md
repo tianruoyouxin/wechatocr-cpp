@@ -17,7 +17,7 @@
 可选参数：  
 `--img "图片路径"`
 
-输出示例：  Left, Top, Right, Bottom 为int类型坐标
+输出示例：
 `{"text":"示例文字","bbox":[Left, Top, Right, Top, Right, Bottom, Left, Bottom]}`
 
 ## 注意
